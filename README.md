@@ -1,1 +1,1 @@
-###<p> RM-Competency-Grid <a href ="https://online.fliphtml5.com/svfjb/usxa/#p=9">Click</a></p>
+###<p> RM-Competency-Grid <a href ="https://digilabteam.github.io/RM-Competency-Grid">Click</a></p>
